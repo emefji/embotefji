@@ -1,0 +1,10 @@
+name: embotefji
+main: com.emefji.embotefji.Main
+version: 1.0
+author: emefji
+api-version: 1.18
+
+commands:
+  ping:
+    description: ping, pong bascally
+    usage: /<Command>
